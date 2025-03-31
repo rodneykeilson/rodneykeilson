@@ -1,6 +1,10 @@
 # 💫 About Me:
-🌱 I’m currently learning and striving to master various programming languages.
-
+👋 Hi, I'm Rodney Keilson!
+🎓 Undergraduate student at Mikroskil University
+💻 Passionate about software development and building cool projects
+🚀 Experienced in frontend & backend development
+🌱 Planning to explore AI and machine learning in the future
+📚 Always open to collaborations and new challenges
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keilsonrodney0710@gmail.com) 
