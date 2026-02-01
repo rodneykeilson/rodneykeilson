@@ -1,10 +1,44 @@
-[![keilsonrodney0710@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keilsonrodney0710@gmail.com) 
+<div align="center">
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# Rodney Keilson
 
-![](https://nirzak-streak-stats.vercel.app/?user=rodneykeilson&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneykeilson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="emu-jumpscare.gif" width="180" alt="hey!"/>
 
-![](https://github-profile-trophy.vercel.app/?username=rodneykeilson&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Full-Stack Developer** • **ML Enthusiast** • **Game Dev Hobbyist**
 
-I'm currently sharpening my skills to create useful stuff.
+<sub>building things that actually work, sometimes with a bit of magic ✨</sub>
+
+[![Portfolio](https://img.shields.io/badge/portfolio-ff77a8?style=for-the-badge&logoColor=white)](https://rodneykeilson.github.io/Rodenious) 
+[![Email](https://img.shields.io/badge/email-00ccc0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keilsonrodney0710@gmail.com)
+
+</div>
+
+---
+
+### What I Build With
+
+```typescript
+const techStack = {
+  languages: ["TypeScript", "Python", "C++", "C#", "Kotlin"],
+  frontend: ["React", "React Native", "Framer Motion", "Tailwind"],
+  backend: ["Node.js", "Express", "Firebase", "FastAPI"],
+  ml: ["PyTorch", "HuggingFace Transformers", "BERT"],
+  gamedev: ["Unity", "OpenGL", "ImGui"],
+  mobile: ["Jetpack Compose", "React Native", "Material 3"],
+};
+```
+
+
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats-fast.vercel.app/api/streak?username=rodneykeilson&theme=radical&hide_border=true&bg_color=0d1117)
+<br>
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rodneykeilson&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+![](https://github-profile-trophy-liard-delta.vercel.app/?username=rodneykeilson&theme=radical&no-frame=true&no-bg=true&row=1&column=6)
+
+</div>
+
