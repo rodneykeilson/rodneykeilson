@@ -4,9 +4,9 @@
 
 <img src="emu-jumpscare.gif" width="180" alt="hey!"/>
 
-**Full-Stack Developer** • **ML Enthusiast** • **Game Dev Hobbyist**
+**Enthusiastic Vibe Coder**
 
-<sub>building things that actually work, sometimes with a bit of magic ✨</sub>
+<sub>building things that actually work, sometimes with a bit of magic ✨ (if you catch my drift 👀)</sub>
 
 [![Portfolio](https://img.shields.io/badge/portfolio-ff77a8?style=for-the-badge&logoColor=white)](https://rodneykeilson.github.io/Rodenious) 
 [![Email](https://img.shields.io/badge/email-00ccc0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keilsonrodney0710@gmail.com)
