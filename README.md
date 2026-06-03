@@ -4,7 +4,7 @@
 
 <img src="emu-jumpscare.gif" width="180" alt="hey!"/>
 
-**Enthusiastic Vibe Coder**
+<strong>Enthusiastic <del>Vibe Coder</del></strong> <sub><sup>idk I'm starting to enjoy handcoding lmao</sup></sub>
 
 <sub>building things that actually work, sometimes with a bit of magic ✨ (if you catch my drift 👀)</sub>
 
