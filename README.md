@@ -34,6 +34,8 @@ const techStack = {
 
 <div align="center">
 
+![](https://github-readme-stats-fast.vercel.app/api?username=rodneykeilson&theme=radical&hide_border=true&bg_color=0d1117)
+<br>
 ![](https://github-readme-stats-fast.vercel.app/api/streak?username=rodneykeilson&theme=radical&hide_border=true&bg_color=0d1117)
 <br>
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rodneykeilson&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
