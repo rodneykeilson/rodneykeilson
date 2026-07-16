@@ -4,12 +4,11 @@
 
 <img src="emu-jumpscare.gif" width="180" alt="hey!"/>
 
-<strong>Enthusiastic <del>Vibe Coder</del></strong> <sub><sup>idk I'm starting to enjoy handcoding lmao</sup></sub>
+<strong>Developer</strong>
+<br>
+<sub>Making things that actually work. Currently focused on React, TypeScript, and keeping my code clean.</sub>
 
-<sub>building things that actually work, sometimes with a bit of magic ✨ (if you catch my drift 👀)</sub>
-
-[![Portfolio](https://img.shields.io/badge/portfolio-ff77a8?style=for-the-badge&logoColor=white)](https://rodneykeilson.github.io/Rodenious) 
-[![Email](https://img.shields.io/badge/email-00ccc0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keilsonrodney0710@gmail.com)
+<a href="#" title="WIP"><img src="https://img.shields.io/badge/portfolio-ff77a8?style=for-the-badge&logoColor=white" alt="Portfolio WIP"></a> <a href="mailto:keilsonrodney0710@gmail.com"><img src="https://img.shields.io/badge/email-00ccc0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -19,12 +18,10 @@
 
 ```typescript
 const techStack = {
-  languages: ["TypeScript", "Python", "C++", "C#", "Kotlin"],
-  frontend: ["React", "React Native", "Framer Motion", "Tailwind"],
-  backend: ["Node.js", "Express", "Firebase", "FastAPI"],
-  ml: ["PyTorch", "HuggingFace Transformers", "BERT"],
-  gamedev: ["Unity", "OpenGL", "ImGui"],
-  mobile: ["Jetpack Compose", "React Native", "Material 3"],
+  languages: ["TypeScript", "Python", "JavaScript"],
+  frontend: ["React", "Tailwind CSS", "Framer Motion"],
+  backend: ["Node.js", "Express", "Firebase"],
+  tools: ["Git", "Figma", "DaVinci Resolve"]
 };
 ```
 
